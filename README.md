@@ -28,11 +28,11 @@
       consultar actividad y personalizar la experiencia de cada usuario. Esta política explica qué datos puede
       tratar la app, con qué finalidad y qué opciones tiene el usuario.
     </p>
-
+      /*
     <p class="notice">
       Antes de publicar en Google Play, sustituye este aviso por el correo real de soporte/desarrollador y sube
       este archivo a una URL pública activa. Ejemplo de URL final: <strong>https://tudominio.com/privacy-policy.html</strong>.
-    </p>
+    </p>*/
 
     <h2>1. Responsable de la aplicación</h2>
     <p>
