@@ -37,7 +37,7 @@
     <h2>1. Responsable de la aplicación</h2>
     <p>
       Responsable: Javier Sánchez Latorre.<br>
-      Contacto: <strong>pendiente de añadir correo real de soporte antes de publicar</strong>.
+      Contacto: <strong>vcoinproyect@gmail.com</strong>.
     </p>
 
     <h2>2. Datos que puede recopilar o tratar Vcoin</h2>
